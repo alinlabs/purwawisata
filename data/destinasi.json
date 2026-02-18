@@ -1,0 +1,265 @@
+[
+  {
+    "id": "1",
+    "slug": "taman-air-mancur-sri-baduga",
+    "name": "Taman Air Mancur Sri Baduga",
+    "description": "Air mancur terbesar di Asia Tenggara yang terletak di Situ Buleud. Menampilkan pertunjukan air menari dengan sorotan lampu warna-warni yang memukau setiap akhir pekan.",
+    "location": "Pusat Kota",
+    "distance": "0 km",
+    "travelTime": "5 Menit",
+    "category": "Budaya",
+    "rating": 4.9,
+    "reviewCount": 15400,
+    "price": 0,
+    "normalPrice": 0,
+    "imageUrl": "https://placehold.co/800x600?text=Sri+Baduga+Fountain",
+    "gallery": [
+      {
+        "link": "https://placehold.co/800x600?text=Sri+Baduga+Show",
+        "type": "image",
+        "copyright": "Disporapar"
+      },
+      {
+        "link": "https://placehold.co/800x600?text=Taman+Situ+Buleud",
+        "type": "image",
+        "copyright": "Antara Foto"
+      }
+    ],
+    "facilities": ["Jogging Track", "Toilet", "Mushola", "Taman Bermain", "Spot Foto"],
+    "contact": {
+        "instagram": "https://instagram.com/sribadugapurwakarta",
+        "website": "https://disporapar.purwakartakab.go.id"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Taman+Air+Mancur+Sri+Baduga&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/SriBadugaPurwakarta"
+  },
+  {
+    "id": "2",
+    "slug": "waduk-jatiluhur",
+    "name": "Waduk Jatiluhur",
+    "description": "Waduk serbaguna pertama di Indonesia dengan pemandangan pegunungan yang asri. Cocok untuk olahraga air, memancing, dan menikmati kuliner ikan bakar.",
+    "location": "Jatiluhur",
+    "distance": "9 km",
+    "travelTime": "25 Menit",
+    "category": "Alam",
+    "rating": 4.7,
+    "reviewCount": 8200,
+    "price": 25000,
+    "normalPrice": 35000,
+    "imageUrl": "https://placehold.co/800x600?text=Waduk+Jatiluhur",
+    "gallery": [
+      {
+        "link": "https://placehold.co/800x600?text=Bendungan+Jatiluhur",
+        "type": "image",
+        "copyright": "Jasa Tirta II"
+      }
+    ],
+    "facilities": ["Water Sport", "Camping Ground", "Restoran Apung", "Hotel", "Masjid"],
+    "contact": {
+        "phone": "+62264201087",
+        "instagram": "https://instagram.com/jatiluhurvalleyresort",
+        "website": "https://jasatirta2.co.id"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Waduk+Jatiluhur&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/WadukJatiluhur"
+  },
+  {
+    "id": "3",
+    "slug": "gunung-parang",
+    "name": "Gunung Parang",
+    "description": "Destinasi wisata ekstrem dengan Via Ferrata tertinggi di Asia. Tantang adrenalin Anda memanjat tebing andesit raksasa dengan keamanan standar internasional.",
+    "location": "Tegalwaru",
+    "distance": "28 km",
+    "travelTime": "1 Jam",
+    "category": "Alam",
+    "rating": 4.8,
+    "reviewCount": 2100,
+    "price": 150000,
+    "normalPrice": 200000,
+    "imageUrl": "https://placehold.co/800x600?text=Gunung+Parang",
+    "gallery": [
+      {
+        "link": "https://placehold.co/800x600?text=Via+Ferrata",
+        "type": "image",
+        "copyright": "Badega Parang"
+      },
+      {
+        "link": "https://placehold.co/1200x800?text=Skylodge+Hotel",
+        "type": "image",
+        "copyright": "Padjadjaran Anyar"
+      }
+    ],
+    "facilities": ["Via Ferrata", "Skylodge Hotel", "Guide Pro", "Sewa Alat", "Basecamp"],
+    "contact": {
+        "whatsapp": "+62878787878",
+        "instagram": "https://instagram.com/badegaparang"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Gunung+Parang+Purwakarta&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/GunungParang"
+  },
+  {
+    "id": "4",
+    "slug": "giri-tirta-kahuripan",
+    "name": "Giri Tirta Kahuripan",
+    "description": "Resort wisata dengan daya tarik utama Skypool (kolam renang di atas awan) yang menawarkan panorama perbukitan Wanayasa yang menakjubkan.",
+    "location": "Wanayasa",
+    "distance": "23 km",
+    "travelTime": "50 Menit",
+    "category": "Alam",
+    "rating": 4.6,
+    "reviewCount": 3500,
+    "price": 40000,
+    "normalPrice": 50000,
+    "imageUrl": "https://placehold.co/800x600?text=Giri+Tirta+Kahuripan",
+    "gallery": [
+       { "link": "https://placehold.co/800x600?text=Skypool+View", "type": "image", "copyright": "Okezone Travel" }
+    ],
+    "facilities": ["Skypool", "Resort", "Restoran", "Agrowisata", "Meeting Room"],
+    "contact": {
+        "phone": "+62264864xxxx",
+        "instagram": "https://instagram.com/giritirtakahuripan"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Giri+Tirta+Kahuripan&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/GiriTirta"
+  },
+  {
+    "id": "5",
+    "slug": "curug-cipurut",
+    "name": "Curug Cipurut",
+    "description": "Air terjun alami yang terletak di kaki Gunung Burangrang. Suasana sejuk, air jernih, dan area camping ground yang asri menjadikan tempat ini favorit pecinta alam.",
+    "location": "Wanayasa",
+    "distance": "25 km",
+    "travelTime": "1 Jam",
+    "category": "Alam",
+    "rating": 4.7,
+    "reviewCount": 1200,
+    "price": 15000,
+    "normalPrice": 20000,
+    "imageUrl": "https://placehold.co/800x600?text=Curug+Cipurut",
+    "gallery": [
+       { "link": "https://placehold.co/800x600?text=Waterfall+Detail", "type": "image", "copyright": "Native Indonesia" }
+    ],
+    "facilities": ["Camping Ground", "Warung", "Toilet", "Mushola", "Jalur Trekking"],
+    "contact": {
+        "instagram": "https://instagram.com/curugcipurut"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Curug+Cipurut&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/CurugCipurut"
+  },
+  {
+    "id": "6",
+    "slug": "tajug-gede-cilodong",
+    "name": "Tajug Gede Cilodong",
+    "description": "Masjid agung dengan arsitektur khas Sunda yang megah, dikelilingi taman bunga dan area pertanian edukasi. Ikon wisata religi baru di Purwakarta.",
+    "location": "Bungursari",
+    "distance": "12 km",
+    "travelTime": "20 Menit",
+    "category": "Budaya",
+    "rating": 4.8,
+    "reviewCount": 4500,
+    "price": 0,
+    "normalPrice": 0,
+    "imageUrl": "https://placehold.co/800x600?text=Tajug+Gede+Cilodong",
+    "gallery": [
+       { "link": "https://placehold.co/800x600?text=Masjid+Architecture", "type": "image", "copyright": "iNews" }
+    ],
+    "facilities": ["Masjid Raya", "Taman Bunga", "Air Mancur", "Area Parkir Luas", "Museum Tani"],
+    "contact": { "website": "https://purwakartakab.go.id" },
+    "mapUrl": "https://maps.google.com/maps?q=Masjid+Raya+Tajug+Gede+Cilodong&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/TajugGede"
+  },
+  {
+    "id": "7",
+    "slug": "diorama-nusantara",
+    "name": "Diorama Nusantara",
+    "description": "Museum arsip digital yang menampilkan sejarah Purwakarta dan Nusantara dengan teknologi canggih. Wisata edukasi yang interaktif dan modern.",
+    "location": "Pusat Kota",
+    "distance": "0.5 km",
+    "travelTime": "2 Menit",
+    "category": "Sejarah",
+    "rating": 4.7,
+    "reviewCount": 2800,
+    "price": 0,
+    "normalPrice": 0,
+    "imageUrl": "https://placehold.co/800x600?text=Diorama+Nusantara",
+    "gallery": [
+       { "link": "https://placehold.co/800x600?text=Digital+Museum", "type": "image", "copyright": "DetikTravel" }
+    ],
+    "facilities": ["Audio Visual", "Guide", "AC", "Toilet", "Perpustakaan Digital"],
+    "contact": { "phone": "(0264) 200xxx" },
+    "mapUrl": "https://maps.google.com/maps?q=Bale+Panyawangan+Diorama+Nusantara&t=&z=16&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/DioramaNusantara"
+  },
+  {
+    "id": "8",
+    "slug": "situ-wanayasa",
+    "name": "Situ Wanayasa",
+    "description": "Danau alam seluas 7 hektar dengan pulau kecil di tengahnya yang terdapat makam pendiri Purwakarta. Udara sejuk khas pegunungan menjadikannya tempat bersantai yang ideal.",
+    "location": "Wanayasa",
+    "distance": "24 km",
+    "travelTime": "55 Menit",
+    "category": "Alam",
+    "rating": 4.5,
+    "reviewCount": 6700,
+    "price": 5000,
+    "normalPrice": 10000,
+    "imageUrl": "https://placehold.co/800x600?text=Situ+Wanayasa",
+    "gallery": [
+       { "link": "https://placehold.co/800x600?text=Danau+Wanayasa", "type": "image", "copyright": "Wiki Commons" }
+    ],
+    "facilities": ["Bebek Air", "Jogging Track", "Warung Kuliner", "Mushola", "Parkir"],
+    "contact": { "instagram": "https://instagram.com/situwanayasa" },
+    "mapUrl": "https://maps.google.com/maps?q=Situ+Wanayasa&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/SituWanayasa"
+  },
+  {
+    "id": "9",
+    "slug": "cikao-park",
+    "name": "Cikao Park",
+    "description": "Destinasi wisata keluarga terlengkap di Purwakarta. Memiliki Waterpark dengan suasana bebatuan alami, Taman Satwa, dan Rumah Ilusi yang instagramable.",
+    "location": "Sukatani",
+    "distance": "8 km",
+    "travelTime": "20 Menit",
+    "category": "Alam",
+    "rating": 4.6,
+    "reviewCount": 9500,
+    "price": 30000,
+    "normalPrice": 50000,
+    "imageUrl": "https://placehold.co/800x600?text=Cikao+Park",
+    "gallery": [
+       { "link": "https://placehold.co/800x600?text=Waterpark+Cikao", "type": "image", "copyright": "Traveloka" }
+    ],
+    "facilities": ["Waterpark", "Mini Zoo", "Bird Park", "Food Court", "Gazebo", "Parkir Luas"],
+    "contact": {
+        "phone": "+62264864xxxx",
+        "instagram": "https://instagram.com/cikaopark",
+        "website": "https://cikaopark.com"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Cikao+Park+Purwakarta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/CikaoPark"
+  },
+  {
+    "id": "10",
+    "slug": "urban-farming-center",
+    "name": "Urban Farming Center",
+    "description": "Wisata edukasi pertanian dengan konsep arsitektur rumah petani Eropa yang penuh warna. Tempat sempurna untuk belajar berkebun dan berfoto ria.",
+    "location": "Campaka",
+    "distance": "10 km",
+    "travelTime": "25 Menit",
+    "category": "Budaya",
+    "rating": 4.5,
+    "reviewCount": 3100,
+    "price": 15000,
+    "normalPrice": 20000,
+    "imageUrl": "https://placehold.co/800x600?text=Urban+Farming", 
+    "gallery": [
+       { "link": "https://placehold.co/800x600?text=Edukasi+Tani", "type": "image", "copyright": "TravelsPromo" }
+    ],
+    "facilities": ["Kebun Sayur", "Rumah Hobbit", "Toko Benih", "Kafe", "Spot Selfie"],
+    "contact": {
+        "instagram": "https://instagram.com/urbanfarmingcenter"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Urban+Farming+Center+Purwakarta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/UrbanFarming"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "a1",
+    "slug": "purwakarta-travel-buddies",
+    "name": "Purwakarta Travel Buddies",
+    "type": "Agency",
+    "location": "Nagri Tengah, Purwakarta",
+    "logoUrl": "https://placehold.co/200x200?text=PTB",
+    "coverUrl": "https://placehold.co/1200x500?text=Purwakarta+Travel+Buddies",
+    "description": "Komunitas lokal yang menyediakan open trip keliling destinasi hits Purwakarta.",
+    "rating": 4.8,
+    "verified": true,
+    "contactInfo": "+62 812 9999 8888",
+    "contact": {
+        "whatsapp": "+62812999998888",
+        "instagram": "https://instagram.com/pwktravelbuddies",
+        "email": "hello@ptb.id"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Nagri+Tengah+Purwakarta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/NagriTengah"
+  },
+  {
+    "id": "a2",
+    "slug": "jatiluhur-adventure",
+    "name": "Jatiluhur Adventure",
+    "type": "Agency",
+    "location": "Jatiluhur",
+    "logoUrl": "https://placehold.co/200x200?text=JA",
+    "coverUrl": "https://placehold.co/1200x500?text=Jatiluhur+Adventure",
+    "description": "Spesialis wisata air dan camping di sekitar Waduk Jatiluhur dan Gunung Parang.",
+    "rating": 4.9,
+    "verified": true,
+    "contactInfo": "+62 813 7777 6666",
+    "contact": {
+        "whatsapp": "+6281377776666",
+        "instagram": "https://instagram.com/jatiluhuradventure",
+        "website": "https://jatiluhuradventure.com"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Jatiluhur+Purwakarta&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/JatiluhurAdv"
+  },
+  {
+    "id": "a3",
+    "slug": "wanayasa-trip",
+    "name": "Wanayasa Eco Trip",
+    "type": "Agency",
+    "location": "Wanayasa",
+    "logoUrl": "https://placehold.co/200x200?text=WET",
+    "coverUrl": "https://placehold.co/1200x500?text=Wanayasa+Eco+Trip",
+    "description": "Menyediakan paket wisata alam ke curug, kebun teh, dan Situ Wanayasa.",
+    "rating": 4.7,
+    "verified": false,
+    "contactInfo": "+62 811 5555 4444",
+    "contact": {
+        "phone": "+6281155554444",
+        "email": "trip@wanayasa.com"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Wanayasa+Purwakarta&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/WanayasaTrip"
+  }
+]

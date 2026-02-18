@@ -1,0 +1,154 @@
+[
+  {
+    "id": "h1",
+    "slug": "harper-purwakarta",
+    "name": "Harper Purwakarta by Aston",
+    "type": "Hotel",
+    "stars": 4,
+    "location": "Bungursari, Purwakarta",
+    "priceStart": 650000,
+    "normalPriceStart": 890000,
+    "rating": 4.8,
+    "reviewCount": 1200,
+    "description": "Hotel modern dengan akses mudah ke gerbang tol Cikampek. Cocok untuk pebisnis dan keluarga.",
+    "imageUrl": "https://placehold.co/1200x800?text=Harper+Hotel+Exterior",
+    "gallery": [
+      {
+        "link": "https://placehold.co/1200x800?text=Lobby+Harper",
+        "type": "image",
+        "copyright": "Harper Hotels"
+      },
+      {
+        "link": "https://placehold.co/1200x800?text=Restaurant",
+        "type": "image",
+        "copyright": "Harper Hotels"
+      }
+    ],
+    "facilities": ["Kolam Renang", "Gym", "Restoran Rustik", "Ballroom", "WiFi Cepat"],
+    "rooms": [
+        { "id": "r1", "name": "Superior Room", "price": 650000, "capacity": 2, "image": "https://placehold.co/600x400?text=Superior+Room" },
+        { "id": "r2", "name": "Suite Room", "price": 1200000, "capacity": 2, "image": "https://placehold.co/600x400?text=Suite+Room" }
+    ],
+    "contact": {
+        "phone": "+622648642888",
+        "email": "purwakartainfo@harperhotels.com",
+        "website": "https://harperhotels.com/purwakarta",
+        "instagram": "https://instagram.com/harperpurwakarta"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Harper+Purwakarta+by+Aston&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/HarperPurwakarta"
+  },
+  {
+    "id": "h2",
+    "slug": "hidden-valley-hills",
+    "name": "Hidden Valley Hills",
+    "type": "Resort",
+    "stars": 4,
+    "location": "Sukatani, Purwakarta",
+    "priceStart": 850000,
+    "normalPriceStart": 1250000,
+    "rating": 4.6,
+    "reviewCount": 850,
+    "description": "Resort dengan pemandangan pegunungan 360 derajat dan arsitektur pilar-pilar kolosal yang instagramable.",
+    "imageUrl": "https://placehold.co/1200x800?text=Hidden+Valley+Hills",
+    "gallery": [
+        {
+          "link": "https://placehold.co/1200x800?text=Infinity+Pool",
+          "type": "image",
+          "copyright": "Traveloka"
+        }
+    ],
+    "facilities": ["Infinity Pool", "Sky Deck", "Meeting Room", "Outdoor Wedding", "Restaurant"],
+    "rooms": [
+        { "id": "r1", "name": "Deluxe Valley", "price": 850000, "capacity": 2, "image": "https://placehold.co/600x400?text=Deluxe+Valley" }
+    ],
+    "contact": {
+        "whatsapp": "+628111234567",
+        "instagram": "https://instagram.com/hiddenvalleyhills"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Hidden+Valley+Hills+Purwakarta&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/HiddenValleyHills"
+  },
+  {
+    "id": "h3",
+    "slug": "prime-plaza-hotel",
+    "name": "Prime Plaza Hotel Purwakarta",
+    "type": "Hotel",
+    "stars": 5,
+    "location": "Kota Bukit Indah, Purwakarta",
+    "priceStart": 950000,
+    "normalPriceStart": 1450000,
+    "rating": 4.7,
+    "reviewCount": 1500,
+    "description": "Hotel bintang 5 bergaya resort di kawasan industri yang tenang, lengkap dengan fasilitas rekreasi keluarga.",
+    "imageUrl": "https://placehold.co/1200x800?text=Prime+Plaza+Hotel",
+    "gallery": [
+        {
+          "link": "https://placehold.co/1200x800?text=Lagoon+Pool",
+          "type": "image",
+          "copyright": "Prime Plaza"
+        }
+    ],
+    "facilities": ["Klab Anak", "Kolam Renang Lagoon", "Lapangan Tenis", "Spa", "Outbound"],
+    "rooms": [
+        { "id": "r1", "name": "Superior", "price": 950000, "capacity": 2, "image": "https://placehold.co/600x400?text=Superior+Prime" }
+    ],
+    "contact": {
+        "phone": "+62264351888",
+        "website": "https://kpph.pphotels.com",
+        "instagram": "https://instagram.com/primeplazapurwakarta"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Prime+Plaza+Hotel+Purwakarta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/PrimePlaza"
+  },
+  {
+    "id": "h4",
+    "slug": "jatiluhur-valley-resort",
+    "name": "Jatiluhur Valley Resort",
+    "type": "Resort",
+    "stars": 3,
+    "location": "Jatiluhur, Purwakarta",
+    "priceStart": 450000,
+    "normalPriceStart": 600000,
+    "rating": 4.5,
+    "reviewCount": 920,
+    "description": "Resort dengan pemandangan langsung ke Waduk Jatiluhur. Pilihan tepat untuk liburan keluarga dengan suasana alam yang tenang.",
+    "imageUrl": "https://placehold.co/1200x800?text=Jatiluhur+Valley",
+    "gallery": [],
+    "facilities": ["Water Sport", "Restoran Tepi Danau", "Meeting Room", "Camping Ground", "Outbound"],
+    "rooms": [
+        { "id": "r1", "name": "Standard Bungalow", "price": 450000, "capacity": 2, "image": "https://placehold.co/600x400?text=Standard+Bungalow" }
+    ],
+    "contact": {
+        "phone": "+6226420xxxx",
+        "instagram": "https://instagram.com/jatiluhurvalleyresort"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Jatiluhur+Valley+Resort&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/JatiluhurValley"
+  },
+  {
+    "id": "h5",
+    "slug": "permata-hotel",
+    "name": "Permata Hotel",
+    "type": "Hotel",
+    "stars": 3,
+    "location": "Sadang, Purwakarta",
+    "priceStart": 350000,
+    "normalPriceStart": 500000,
+    "rating": 4.4,
+    "reviewCount": 650,
+    "description": "Hotel bisnis strategis di dekat pintu tol Sadang. Fasilitas lengkap dengan harga terjangkau untuk pelancong maupun pebisnis.",
+    "imageUrl": "https://placehold.co/1200x800?text=Permata+Hotel",
+    "gallery": [],
+    "facilities": ["Meeting Room", "Restoran", "Karaoke", "WiFi", "Parkir Luas"],
+    "rooms": [
+        { "id": "r1", "name": "Superior", "price": 350000, "capacity": 2, "image": "https://placehold.co/600x400?text=Superior+Room" }
+    ],
+    "contact": {
+        "phone": "+62264351xxx",
+        "website": "https://permatahotel.com"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Permata+Hotel+Purwakarta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/PermataHotel"
+  }
+]

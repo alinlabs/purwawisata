@@ -1,0 +1,16 @@
+{
+  "name": "Purwawisata",
+  "tagline": "Purwakarta Istimewa",
+  "description": "Platform digital resmi pariwisata Kabupaten Purwakarta. Temukan keindahan \"Purwakarta Istimewa\" dalam satu genggaman.",
+  "logoUrl": "https://imgur.com/D55lnSL.png",
+  "contact": {
+    "address": "Jl. Gandanegara No. 25, Nagri Kidul, Purwakarta, Jawa Barat",
+    "phone": "(0264) 200xxx",
+    "email": "info@purwawisata.id"
+  },
+  "social": {
+    "instagram": "https://instagram.com/purwakartazamannow",
+    "facebook": "https://facebook.com/humaspurwakarta",
+    "twitter": "https://twitter.com/disporapar_pwk"
+  }
+}

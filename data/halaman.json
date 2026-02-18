@@ -1,0 +1,82 @@
+[
+  {
+    "path": "/",
+    "heroTitle": "Jelajahi Pesona Purwakarta Istimewa",
+    "heroDescription": "Nikmati keindahan Air Mancur Sri Baduga, ketenangan Waduk Jatiluhur, hingga kuliner legendaris Sate Maranggi.",
+    "heroMedia": "https://placehold.co/1200x800?text=Pesona+Purwakarta",
+    "heroMediaType": "image",
+    "metaTitle": "Purwawisata - Portal Wisata Resmi Kabupaten Purwakarta",
+    "metaDescription": "Panduan wisata terlengkap di Purwakarta. Temukan hidden gems, hotel terbaik, kuliner legendaris, dan event budaya di Kabupaten Purwakarta, Jawa Barat.",
+    "keywords": ["wisata purwakarta", "purwawisata", "kabupaten purwakarta", "pariwisata purwakarta", "tempat liburan jawa barat"]
+  },
+  {
+    "path": "/wisata",
+    "heroTitle": "Eksplorasi Purwakarta",
+    "heroDescription": "Temukan pesona tersembunyi di setiap sudut Kabupaten Purwakarta, dari pegunungan hingga waduk legendaris.",
+    "heroMedia": "https://placehold.co/1200x800?text=Eksplorasi+Alam",
+    "heroMediaType": "image",
+    "metaTitle": "10+ Tempat Wisata di Purwakarta Paling Hits & Instagramable",
+    "metaDescription": "Daftar rekomendasi tempat wisata alam dan buatan di Purwakarta. Gunung Parang, Curug Cipurut, Situ Buleud, hingga Cikao Park.",
+    "keywords": ["tempat wisata purwakarta", "destinasi alam purwakarta", "curug di purwakarta", "gunung parang", "wisata keluarga purwakarta"]
+  },
+  {
+    "path": "/kuliner",
+    "heroTitle": "Wisata Kuliner",
+    "heroDescription": "Manjakan lidah Anda dengan cita rasa legendaris Purwakarta. Dari Sate Maranggi yang mendunia hingga Soto Sadang yang otentik.",
+    "heroMedia": "https://placehold.co/1200x800?text=Wisata+Kuliner",
+    "heroMediaType": "image",
+    "metaTitle": "Kuliner Khas Purwakarta - Sate Maranggi & Makanan Enak",
+    "metaDescription": "Rekomendasi tempat makan enak di Purwakarta. Sate Maranggi Hj Yetty, Soto Sadang, Es Ciming, dan oleh-oleh khas Purwakarta.",
+    "keywords": ["kuliner purwakarta", "sate maranggi", "soto sadang", "rumah makan sunda purwakarta", "oleh-oleh purwakarta"]
+  },
+  {
+    "path": "/hotel",
+    "heroTitle": "Staycation Nyaman",
+    "heroDescription": "Temukan hotel, resort, dan villa terbaik dengan pemandangan menakjubkan di Purwakarta.",
+    "heroMedia": "https://placehold.co/1200x800?text=Staycation",
+    "heroMediaType": "image",
+    "metaTitle": "Hotel Murah & Resort Terbaik di Purwakarta",
+    "metaDescription": "Cari dan booking hotel di Purwakarta. Tersedia pilihan resort di Jatiluhur, hotel dekat tol, dan villa dengan pemandangan gunung.",
+    "keywords": ["hotel purwakarta", "resort jatiluhur", "penginapan murah purwakarta", "villa purwakarta", "staycation purwakarta"]
+  },
+  {
+    "path": "/agensi",
+    "heroTitle": "Paket Wisata & Partner",
+    "heroDescription": "Jelajahi Purwakarta tanpa ribet dengan paket wisata Open Trip maupun Private Trip dari agensi terpercaya dan pemandu lokal berpengalaman.",
+    "heroMedia": "https://placehold.co/1200x800?text=Travel+Partner",
+    "heroMediaType": "image",
+    "metaTitle": "Paket Wisata Purwakarta & Sewa Tour Guide Lokal",
+    "metaDescription": "Layanan paket open trip Purwakarta, private trip, family gathering, dan jasa pemandu wisata (tour guide) lokal profesional.",
+    "keywords": ["paket wisata purwakarta", "open trip purwakarta", "travel agent purwakarta", "sewa tour guide", "camping purwakarta"]
+  },
+  {
+    "path": "/acara",
+    "heroTitle": "Kalender Event & Budaya",
+    "heroDescription": "Saksikan kemeriahan festival, pagelaran seni, dan acara musik terbaik di seluruh penjuru Purwakarta.",
+    "heroMedia": "https://placehold.co/1200x800?text=Event+Budaya",
+    "heroMediaType": "image",
+    "metaTitle": "Kalender Event & Festival Purwakarta Tahun Ini",
+    "metaDescription": "Jadwal acara terbaru di Purwakarta. Festival Manggis, Pertunjukan Air Mancur Sri Baduga, konser musik, dan acara budaya.",
+    "keywords": ["event purwakarta", "jadwal air mancur sri baduga", "festival purwakarta", "agenda wisata", "konser purwakarta"]
+  },
+  {
+    "path": "/pemesanan/checkout",
+    "heroTitle": "Selesaikan Pesanan",
+    "heroDescription": "Lengkapi data diri dan lakukan pembayaran untuk mengamankan perjalanan wisata Anda.",
+    "heroMedia": "https://placehold.co/1200x800?text=Checkout",
+    "heroMediaType": "image",
+    "metaTitle": "Konfirmasi Pesanan - Purwawisata",
+    "metaDescription": "Halaman aman pembayaran tiket dan booking hotel Purwawisata.",
+    "keywords": ["checkout purwawisata", "pembayaran tiket", "booking hotel"]
+  },
+  {
+    "path": "/user/dashboard",
+    "heroTitle": "Dashboard Saya",
+    "heroDescription": "Selamat datang kembali! Kelola profil, pantau aktivitas, dan rencanakan perjalanan Anda berikutnya.",
+    "heroMedia": "https://placehold.co/1200x800?text=Dashboard",
+    "heroMediaType": "image",
+    "metaTitle": "Dashboard Pengguna - Purwawisata",
+    "metaDescription": "Area member Purwawisata untuk mengelola pesanan dan profil.",
+    "keywords": ["dashboard user", "akun purwawisata"]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "g1",
+    "slug": "kang-asep-gunung",
+    "name": "Kang Asep Suryana",
+    "type": "Individual",
+    "specialization": "Hiking & Climbing Expert",
+    "location": "Tegalwaru, Purwakarta",
+    "logoUrl": "https://placehold.co/200x200?text=Kang+Asep",
+    "coverUrl": "https://placehold.co/1200x600?text=Kang+Asep+Adventure",
+    "description": "Pemandu lokal berpengalaman lebih dari 10 tahun menaklukan tebing Gunung Parang dan jalur pendakian Gunung Bongkok. Siap menemani petualangan ekstrem Anda dengan aman.",
+    "rating": 5.0,
+    "verified": true,
+    "contactInfo": "+62 819 4444 3333",
+    "contact": {
+        "whatsapp": "+6281944443333",
+        "instagram": "https://instagram.com/asep_climber"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Tegalwaru+Purwakarta&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/Tegalwaru"
+  },
+  {
+    "id": "g2",
+    "slug": "teh-nining-budaya",
+    "name": "Teh Nining",
+    "type": "Individual",
+    "specialization": "Sejarah & Budaya Sunda",
+    "location": "Pusat Kota",
+    "logoUrl": "https://placehold.co/200x200?text=Teh+Nining",
+    "coverUrl": "https://placehold.co/1200x600?text=Teh+Nining+Culture",
+    "description": "Pencinta sejarah Purwakarta. Saya akan membawa Anda lorong waktu mengunjungi Gedung Karesidenan, Masjid Agung, hingga menceritakan filosofi Air Mancur Sri Baduga.",
+    "rating": 4.8,
+    "verified": true,
+    "contactInfo": "+62 815 6666 7777",
+    "contact": {
+        "whatsapp": "+6281566667777",
+        "email": "nining@purwawisata.guide"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Pusat+Kota+Purwakarta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/PurwakartaKota"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "banks": [
+    {
+      "id": "bca",
+      "name": "BCA",
+      "number": "8120098999",
+      "holder": "PT Purwawisata Official"
+    },
+    {
+      "id": "mandiri",
+      "name": "Mandiri",
+      "number": "177000299299",
+      "holder": "PT Purwawisata Official"
+    },
+    {
+      "id": "bri",
+      "name": "BRI",
+      "number": "034101000743303",
+      "holder": "PT Purwawisata Official"
+    }
+  ],
+  "qris": {
+    "enabled": true,
+    "name": "QRIS (GoPay/OVO/Dana)",
+    "imageUrl": "https://placehold.co/400x400?text=QRIS+Purwawisata"
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "c1",
+    "slug": "sate-maranggi-hj-yetty",
+    "name": "Sate Maranggi Hj. Yetty",
+    "cuisine": "Sate",
+    "priceRange": "Rp 5.000 - Rp 100.000",
+    "openingHours": "08:00 - 21:00",
+    "location": "Cibungur, Bungursari",
+    "rating": 4.8,
+    "reviewCount": 25400,
+    "description": "Ikon kuliner Purwakarta yang melegenda. Daging sate yang empuk, bumbu marinasi khas, disajikan dengan sambal tomat segar dan ketan bakar.",
+    "imageUrl": "https://placehold.co/800x800?text=Sate+Maranggi+Hj+Yetty",
+    "gallery": [
+        {
+            "link": "https://placehold.co/1200x800?text=Suasana+Resto",
+            "type": "image",
+            "copyright": "PergiKuliner"
+        }
+    ],
+    "facilities": ["Parkir Luas (Bus)", "Mushola Besar", "Toilet", "Area Lesehan", "Toko Oleh-oleh"],
+    "menus": [
+      { "name": "Sate Maranggi Sapi", "price": 5000, "description": "Per tusuk" },
+      { "name": "Sate Maranggi Kambing", "price": 6000, "description": "Per tusuk" },
+      { "name": "Ketan Bakar", "price": 4000, "description": "Per potong" },
+      { "name": "Es Kelapa Muda", "price": 15000 }
+    ],
+    "halal": true,
+    "contact": {
+        "phone": "+62264351xxx",
+        "instagram": "https://instagram.com/satemaranggi_hjyetty"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Sate+Maranggi+Hj+Yetty&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/HjYetty"
+  },
+  {
+    "id": "c2",
+    "slug": "soto-sadang-lama",
+    "name": "Soto Sadang Lama",
+    "cuisine": "Soto",
+    "priceRange": "Rp 35.000 - Rp 60.000",
+    "openingHours": "09:00 - 21:00",
+    "location": "Sadang, Purwakarta",
+    "rating": 4.6,
+    "reviewCount": 3200,
+    "description": "Kuliner legendaris sejak tahun 1970-an. Tersedia soto kuah santan yang gurih dan kuah bening yang segar dengan potongan daging melimpah.",
+    "imageUrl": "https://placehold.co/800x800?text=Soto+Sadang",
+    "gallery": [
+        {
+          "link": "https://placehold.co/800x800?text=Soto+Kuah+Santan",
+          "type": "image",
+          "copyright": "Kompas Travel"
+        }
+    ],
+    "facilities": ["AC", "Parkir", "Toilet"],
+    "menus": [
+      { "name": "Soto Daging Santan", "price": 45000 },
+      { "name": "Soto Ayam Bening", "price": 35000 },
+      { "name": "Nasi Putih", "price": 6000 }
+    ],
+    "halal": true,
+    "contact": {
+        "phone": "+6226420xxx"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Soto+Sadang+Lama&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/SotoSadang"
+  },
+  {
+    "id": "c3",
+    "slug": "es-ciming",
+    "name": "Es Ciming",
+    "cuisine": "Dessert",
+    "priceRange": "Rp 15.000 - Rp 25.000",
+    "openingHours": "10:00 - 18:00",
+    "location": "Jl. Jend. Sudirman",
+    "rating": 4.7,
+    "reviewCount": 1500,
+    "description": "Es campur legendaris khas Purwakarta dengan isian cendol, cincau, kacang hijau, dan kelapa muda yang disiram sirup merah khas.",
+    "imageUrl": "https://placehold.co/800x800?text=Es+Ciming",
+    "gallery": [],
+    "facilities": ["Area Duduk", "Parkir Tepi Jalan"],
+    "menus": [
+      { "name": "Es Ciming Spesial", "price": 18000 },
+      { "name": "Batagor Kuah", "price": 15000 }
+    ],
+    "halal": true,
+    "contact": {
+        "instagram": "https://instagram.com/escimingpwk"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Es+Ciming+Purwakarta&t=&z=16&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/EsCiming"
+  },
+  {
+    "id": "c4",
+    "slug": "sambel-hejo-sambel-dadak",
+    "name": "SHSD (Sambel Hejo Sambel Dadak)",
+    "cuisine": "Sunda",
+    "priceRange": "Rp 50.000 - Rp 100.000",
+    "openingHours": "09:00 - 22:00",
+    "location": "Ciganea",
+    "rating": 4.5,
+    "reviewCount": 5600,
+    "description": "Rumah makan Sunda dengan konsep sambal dadak yang pedas nampol dan ayam goreng basah yang ikonik.",
+    "imageUrl": "https://placehold.co/800x800?text=SHSD+Ciganea",
+    "gallery": [],
+    "facilities": ["Lesehan", "Mushola", "Parkir Luas", "VIP Room"],
+    "menus": [
+      { "name": "Ayam Goreng Basah", "price": 12000, "description": "Per potong" },
+      { "name": "Sambal Dadak", "price": 5000 },
+      { "name": "Karedok", "price": 20000 }
+    ],
+    "halal": true,
+    "contact": {
+        "phone": "+6226420xxxx",
+        "whatsapp": "+62812999888",
+        "instagram": "https://instagram.com/shsd.id"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=SHSD+Sambel+Hejo+Sambel+Dadak+Ciganea&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/SHSD"
+  },
+  {
+    "id": "c5",
+    "slug": "surabi-gapura-kang-dyan",
+    "name": "Surabi Gapura Kang Dyan",
+    "cuisine": "Jajanan",
+    "priceRange": "Rp 5.000 - Rp 15.000",
+    "openingHours": "10:00 - 22:00",
+    "location": "Kampung Cekatsu",
+    "rating": 4.6,
+    "reviewCount": 1800,
+    "description": "Surabi khas Purwakarta dengan tekstur lembut. Tersedia varian kinca duren yang lumer dan oncom pedas yang menggugah selera.",
+    "imageUrl": "https://placehold.co/800x800?text=Surabi+Gapura", 
+    "gallery": [],
+    "facilities": ["Area Parkir", "Lesehan"],
+    "menus": [
+        { "name": "Surabi Kinca Duren", "price": 12000 },
+        { "name": "Surabi Oncom Spesial", "price": 8000 }
+    ],
+    "halal": true,
+    "contact": {
+        "instagram": "https://instagram.com/surabigapura"
+    },
+    "mapUrl": "https://maps.google.com/maps?q=Surabi+Gapura+Kang+Dyan&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/SurabiGapura"
+  }
+]

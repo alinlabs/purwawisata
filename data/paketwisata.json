@@ -1,0 +1,130 @@
+[
+  {
+    "id": "tp1",
+    "slug": "explore-gunung-parang",
+    "agencyId": "a2",
+    "agency": {
+      "id": "a2",
+      "slug": "jatiluhur-adventure",
+      "name": "Jatiluhur Adventure",
+      "type": "Agency",
+      "location": "Jatiluhur",
+      "logoUrl": "https://placehold.co/200x200?text=JA",
+      "description": "Spesialis wisata air dan camping di sekitar Waduk Jatiluhur dan Gunung Parang.",
+      "rating": 4.9,
+      "verified": true,
+      "contactInfo": "+62 813 7777 6666"
+    },
+    "title": "Via Ferrata Gunung Parang & Skylodge",
+    "type": "Private Trip",
+    "duration": "1 Hari",
+    "price": 350000,
+    "normalPrice": 500000,
+    "location": "Tegalwaru",
+    "rating": 4.9,
+    "reviewCount": 85,
+    "description": "Rasakan sensasi memanjat tebing andesit tertinggi di Purwakarta dengan aman. Termasuk makan siang nasi liwet khas Sunda.",
+    "itinerary": [
+      { "day": 1, "title": "Pemanjatan & Makan Siang", "description": "Briefing keamanan, pemanjatan via ferrata 300m, makan siang di basecamp, foto di Skylodge." }
+    ],
+    "facilities": ["Alat Keselamatan", "Guide", "Makan Siang", "Dokumentasi", "Air Mineral"],
+    "gallery": [
+        {
+            "link": "https://placehold.co/1200x800?text=Climbing+Action",
+            "type": "image",
+            "copyright": "Badega Parang"
+        }
+    ],
+    "mapUrl": "https://maps.google.com/maps?q=Gunung+Parang+Purwakarta&t=&z=14&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/GunungParang"
+  },
+  {
+    "id": "tp2",
+    "slug": "keliling-kota-purwakarta",
+    "agencyId": "a1",
+    "agency": {
+        "id": "a1",
+        "slug": "purwakarta-travel-buddies",
+        "name": "Purwakarta Travel Buddies",
+        "type": "Agency",
+        "location": "Nagri Tengah, Purwakarta",
+        "logoUrl": "https://placehold.co/200x200?text=PTB",
+        "description": "Komunitas lokal yang menyediakan open trip keliling destinasi hits Purwakarta.",
+        "rating": 4.8,
+        "verified": true,
+        "contactInfo": "+62 812 9999 8888"
+    },
+    "title": "City Tour Purwakarta Istimewa",
+    "type": "Open Trip",
+    "duration": "1 Hari",
+    "price": 150000,
+    "normalPrice": 250000,
+    "location": "Pusat Kota",
+    "rating": 4.7,
+    "reviewCount": 120,
+    "description": "Mengunjungi Diorama Purwakarta, Galeri Wayang, dan diakhiri menonton Air Mancur Sri Baduga.",
+    "itinerary": [
+      { "day": 1, "title": "Museum & Air Mancur", "description": "Kunjungan ke Bale Panyawangan, Makan Sate Maranggi, Shalat di Masjid Agung, Nonton Air Mancur." }
+    ],
+    "facilities": ["Transportasi Odong-odong Modern", "Tiket Masuk", "Snack", "Guide"],
+    "gallery": [
+        {
+            "link": "https://placehold.co/1200x800?text=City+Tour+Bus",
+            "type": "image",
+            "copyright": "Disporapar"
+        },
+        {
+            "link": "https://placehold.co/1200x800?text=Museum+Diorama",
+            "type": "image",
+            "copyright": "User Review"
+        }
+    ],
+    "mapUrl": "https://maps.google.com/maps?q=Pusat+Kota+Purwakarta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/PurwakartaKota"
+  },
+  {
+    "id": "tp3",
+    "slug": "camping-jatiluhur",
+    "agencyId": "a2",
+    "agency": {
+      "id": "a2",
+      "slug": "jatiluhur-adventure",
+      "name": "Jatiluhur Adventure",
+      "type": "Agency",
+      "location": "Jatiluhur",
+      "logoUrl": "https://placehold.co/200x200?text=JA",
+      "description": "Spesialis wisata air dan camping di sekitar Waduk Jatiluhur dan Gunung Parang.",
+      "rating": 4.9,
+      "verified": true,
+      "contactInfo": "+62 813 7777 6666"
+    },
+    "title": "Camping Ceria Tepi Waduk Jatiluhur",
+    "type": "Family Gathering",
+    "duration": "2 Hari 1 Malam",
+    "price": 450000,
+    "normalPrice": 600000,
+    "location": "Jatiluhur",
+    "rating": 4.8,
+    "reviewCount": 56,
+    "description": "Menikmati sunset dan sunrise di tepi waduk terbesar. Cocok untuk keluarga dan komunitas.",
+    "itinerary": [
+      { "day": 1, "title": "Check-in & BBQ", "description": "Pasang tenda, water sport sore hari, BBQ malam hari." },
+      { "day": 2, "title": "Senam & Pulang", "description": "Senam pagi, sarapan nasi uduk, keliling waduk dengan perahu, check-out." }
+    ],
+    "facilities": ["Tenda Dome", "Matras", "Alat Masak", "Tiket Masuk", "Perahu Keliling"],
+    "gallery": [
+        {
+            "link": "https://placehold.co/1200x800?text=Camping+Ground",
+            "type": "image",
+            "copyright": "Jatiluhur"
+        },
+        {
+            "link": "https://placehold.co/1200x800?text=Morning+View",
+            "type": "image",
+            "copyright": "Camper"
+        }
+    ],
+    "mapUrl": "https://maps.google.com/maps?q=Waduk+Jatiluhur&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "googleMapsLink": "https://goo.gl/maps/WadukJatiluhur"
+  }
+]

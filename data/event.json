@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "slug": "festival-manggis-purwakarta",
+    "title": "Festival Manggis Purwakarta",
+    "date": "2024-03-15",
+    "location": "Kebon Ambu, Wanayasa",
+    "price": 0,
+    "normalPrice": 0,
+    "description": "Perayaan panen raya manggis Wanayasa yang mendunia. Nikmati manggis gratis dan berbagai olahan buah tropis.",
+    "imageUrl": "https://placehold.co/800x600?text=Festival+Manggis",
+    "capacity": 5000
+  },
+  {
+    "id": "2",
+    "slug": "hari-jadi-purwakarta",
+    "title": "Karnaval Hari Jadi Purwakarta",
+    "date": "2024-07-20",
+    "location": "Jl. Jend. Sudirman",
+    "price": 0,
+    "normalPrice": 0,
+    "description": "Parade budaya kolosal yang menampilkan kereta kencana, mojang jajaka, dan kesenian khas Sunda untuk merayakan ulang tahun kabupaten.",
+    "imageUrl": "https://placehold.co/800x600?text=Karnaval+Budaya",
+    "capacity": 20000
+  },
+  {
+    "id": "3",
+    "slug": "pertunjukan-air-mancur",
+    "title": "Special Show Sri Baduga",
+    "date": "2024-12-31",
+    "location": "Taman Sri Baduga, Situ Buleud",
+    "price": 50000,
+    "normalPrice": 75000,
+    "description": "Pertunjukan spesial malam tahun baru dengan koreografi air mancur dan laser show spektakuler. Tiket VIP Area.",
+    "imageUrl": "https://placehold.co/800x600?text=Sri+Baduga+Show",
+    "capacity": 8000
+  }
+]

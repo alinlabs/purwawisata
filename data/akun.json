@@ -1,0 +1,18 @@
+[
+  {
+    "id": "u1",
+    "name": "Budi Santoso",
+    "email": "budi@example.com",
+    "password": "password123",
+    "phone": "08123456789",
+    "avatar": "https://placehold.co/150x150?text=Budi"
+  },
+  {
+    "id": "u2",
+    "name": "Siti Aminah",
+    "email": "siti@example.com",
+    "password": "user123",
+    "phone": "08198765432",
+    "avatar": "https://placehold.co/150x150?text=Siti"
+  }
+]
